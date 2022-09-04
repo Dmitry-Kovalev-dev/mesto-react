@@ -17,6 +17,7 @@
 @import url(./blocks/post/__info/post__info.css);
 @import url(./blocks/post/__img/post__img.css);
 @import url(./blocks/post/__trash-btn/post__trash-btn.css);
+@import url(./blocks/post/__trash-btn/_hidden/post__trash-btn_hidden.css);
 @import url(./blocks/post/__title/post__title.css);
 @import url(./blocks/post/__like/post__like.css);
 @import url(./blocks/post/__like-count/post__like-count.css);
